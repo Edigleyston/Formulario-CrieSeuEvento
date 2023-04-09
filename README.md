@@ -11,7 +11,6 @@ Formulario-CrieSeuEvento
 
 <div>
   <img src="https://imgur.com/434EgWG" alt="demo" height="425">
-  <img src="" alt="demo" height="425">
 </div>
 
 ## Features
