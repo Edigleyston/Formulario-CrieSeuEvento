@@ -15,7 +15,7 @@ Formulario-CrieSeuEvento
 
 ## Features
 [//]: # (Add the features of your project here:)
-This app features all the latest tools and practices in mobile development!
+Practice only in desktop!
 
 - ⚛️ **HTML** — The HyperText Markup Language  
 - ⚛️ **CSS** — Cascading Style Sheets, the mecanism to add styles on my code.
