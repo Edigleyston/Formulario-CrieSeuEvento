@@ -10,7 +10,7 @@ Formulario-CrieSeuEvento
   caso não seja preenchido ou seja preenchido de forma incorreta</p>
 
 <div>
-  <img src="https://imgur.com/434EgWG" alt="demo" height="425">
+  <img src="https://i.imgur.com/434EgWG.gif" alt="demo" height="425">
 </div>
 
 ## Features
