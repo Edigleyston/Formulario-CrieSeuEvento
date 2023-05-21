@@ -1,5 +1,6 @@
--------Code with notes.-------
--------Código com comentários.-------
+-------CSS code with notes.-------
+<br>
+-------Código css com comentários.-------
 
 
 *{ /*é bom formatar margin e padding para 0*/
