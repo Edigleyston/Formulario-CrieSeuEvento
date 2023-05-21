@@ -1,4 +1,4 @@
-*{ /*é bom formatar margin e padding para 0*/
+*{ 
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -10,7 +10,7 @@ body, input, button, select, textarea{
 
 }
 
-/*o ::before significa que ele vai ficar antes de um conteúdo! z-index: significa a opsição de camada que ele vai ficar*/
+
 body::before{
     content: '';
     width: 100%;
@@ -58,7 +58,7 @@ form{
     padding: 64px;
 
 
-    /*para aplicar um padrão de distancia entre os elementos*/
+
     display: flex;
     flex-direction: column;
     gap: 48px;
@@ -113,7 +113,7 @@ fieldset legend{
     background: #FAFAFC;
 
     border: 1px solid #E6E6F0;
-    /*box-sizing: border-box; calculo do tamanho da caixa| o tamanho da caixa vai ser em relação a borda*/
+
     border-radius: 8px; 
     
     padding: 0 24px;
@@ -134,7 +134,7 @@ fieldset legend{
 }
 
 .input-wrapper select{
-    appearance: none; /*tira a setinha para baixo do select*/
+    appearance: none;
 }
 .input-wrapper select:hover{
     background: #E5E5E5;
@@ -146,7 +146,7 @@ fieldset legend{
     display: flex;
     gap: 20px;
 }
-/*ordena niveis de algo nesse caso uma div*/
+
 .colunas > div:nth-child(1){
     width: 100%;
     
@@ -161,8 +161,6 @@ fieldset legend{
     cursor: pointer;
 }
 .pretty p-icon p-round p-smooth input{
-    /*display:none; usa o display:none para sumir com a caixa de seleção
-                    para poder configurar ele, senão sempre vai ficar pegando a caixinha do navegador*/
     position: absolute;
     top: 0;
     left: 0;
